@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://slin1972.github.io/blog/2015/05/20/jiekexueyuan/</loc>
+    <loc>http://slin1972.github.io/blog/2015/05/22/pythonstudy1/</loc>
+    <lastmod>2015-05-22T02:39:03+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://slin1972.github.io/blog/2015/05/20/installOctopress/</loc>
     <lastmod>2015-05-20T01:35:29+08:00</lastmod>
   </url>
   <url>
@@ -17,9 +21,12 @@
     <loc>http://slin1972.github.io/aboutme/</loc>
   </url>
   <url>
-    <loc>http://slin1972.github.io/blog/categories/android/</loc>
+    <loc>http://slin1972.github.io/blog/categories/blog/</loc>
   </url>
   <url>
     <loc>http://slin1972.github.io/blog/categories/html/</loc>
+  </url>
+  <url>
+    <loc>http://slin1972.github.io/blog/categories/python/</loc>
   </url>
 </urlset>

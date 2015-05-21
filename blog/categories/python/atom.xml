@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Slin Le's Blogs]]></title>
-  <link href="http://slin1972.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Python | Slin Le's Blogs]]></title>
+  <link href="http://slin1972.github.io/blog/categories/python/atom.xml" rel="self"/>
   <link href="http://slin1972.github.io/"/>
   <updated>2015-05-22T02:51:40+08:00</updated>
   <id>http://slin1972.github.io/</id>
@@ -44,23 +44,6 @@ html = requests.get("http://www.baidu.com",params)
 
 print html.text
 </code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[搭建OctoPress]]></title>
-    <link href="http://slin1972.github.io/blog/2015/05/20/installOctopress/"/>
-    <updated>2015-05-20T01:35:29+08:00</updated>
-    <id>http://slin1972.github.io/blog/2015/05/20/installOctopress</id>
-    <content type="html"><![CDATA[<h3>准备工作</h3>
-
-<h3>软件</h3>
-
-<blockquote><p>awesomium <br/>
-DevKit<br/>
-Git<br/>
-markdown<br/>
-ruby<br/></p></blockquote>
 ]]></content>
   </entry>
   

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Html | Slin Le's Blogs]]></title>
-  <link href="http://slin1972.github.io/blog/categories/html/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blog | Slin Le's Blogs]]></title>
+  <link href="http://slin1972.github.io/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://slin1972.github.io/"/>
   <updated>2015-05-22T02:51:40+08:00</updated>
   <id>http://slin1972.github.io/</id>
