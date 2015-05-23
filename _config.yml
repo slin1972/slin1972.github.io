@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://slin1972.github.io
-title: 乐森林的博客
-subtitle: A blogging framework for hackers.
-author: 乐森林
+title: Slin Le's Blogs
+subtitle: 一个后台软件工程师的个人博客
+author: Slin Le
 simple_search: https://www.baidu.com/
-description:
+description: 一个后台软件工程师的个人博客
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
