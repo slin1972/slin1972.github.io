@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://slin1972.github.io/sitemap.xml 
